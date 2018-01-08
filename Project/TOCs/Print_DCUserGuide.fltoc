@@ -747,7 +747,7 @@
         PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl" />
       <TocEntry
         Title="Work with Saved Reports"
-        Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG44_WorkwithSavedReport.html"
+        Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_WorkwithSavedReports.html"
         BreakType="chapter"
         StartSection="false"
         PageNumberReset="continue"

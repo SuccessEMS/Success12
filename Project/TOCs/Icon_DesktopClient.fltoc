@@ -862,7 +862,7 @@
           Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_ConfigAutomatedReports.html" />
         <TocEntry
           Title="Work with Saved Reports"
-          Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG44_WorkwithSavedReport.html" />
+          Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_WorkwithSavedReports.html" />
         <TocEntry
           Title="Work with a Query"
           Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_WorkwithResBook.html" />
@@ -1659,8 +1659,7 @@
               Title="Configure Automated Reports"
               Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_ConfigAutomatedReports.html" />
             <TocEntry
-              Title="Work with Saved Reports"
-              Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG44_WorkwithSavedReport.html" />
+              Title="Work with Saved Reports" />
             <TocEntry
               Title="Work with a Query"
               Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_WorkwithResBook.html" />
