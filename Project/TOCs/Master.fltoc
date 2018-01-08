@@ -3783,7 +3783,7 @@
           Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_EMSWindow.htm" />
         <TocEntry
           Title="Overview of EMS Desktop Client Configuration"
-          Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_OverviewofDCConfig.htm" />
+          Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_OverviewConfigWindow.htm" />
         <TocEntry
           Title="EMS Browser Window"
           Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_EMSBrowserWindow.htm" />
@@ -4142,9 +4142,6 @@
       <TocEntry
         Title="EMS Desktop Client User Guide (V44)"
         Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_Introduction.html">
-        <TocEntry
-          Title="Introduction to EMS Desktop Client"
-          Link="/Content/1DesktopClient/V44.1/A_InstallationGuide/DC_IG_Introduction.html" />
         <TocEntry
           Title="Launch EMS Desktop Client"
           Link="/Content/1DesktopClient/V44.1/C_UserGuide/DC_UG_StartEMS.html" />
