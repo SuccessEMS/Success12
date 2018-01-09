@@ -4,136 +4,154 @@
   <TocEntry
     Title="Documentation for EMS for Microsoft Outlook">
     <TocEntry
-      Title="Installation Guide EMS for Microsoft Outlook"
-      Link="/Content/A_Installation/5_OutlookV44.1/5_OutlookV44.1Home.htm">
+      Title="Version 8">
       <TocEntry
-        Title="Introduction to EMS for Outlook"
-        Link="/Content/4Outlook/A_Install/Outlook_IG_Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Requirements and Prerequisites for EMS for Outlook"
-        Link="/Content/4Outlook/A_Install/Outlook_IG_ReqsPrereqs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Plan Your EMS for Outlook Implementation"
-        Link="/Content/4Outlook/A_Install/Outlook_IG_PlanImplementation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Install or Upgrade EMS for Outlook on Users' Computers"
-        Link="/Content/4Outlook/A_Install/Outlook_IG_InstallUpgrade.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        Title="Installation Guide EMS for Microsoft Outlook"
+        Link="/Content/A_Installation/5_OutlookV44.1/5_OutlookV44.1Home.htm">
         <TocEntry
-          Title="EMS for Outlook Add-In Is Offline"
-          Link="/Content/4Outlook/A_Install/Outlook_IG_OutlookAddInOffline.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Introduction to EMS for Outlook"
+          Link="/Content/4Outlook/A_Install/Outlook_IG_Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Silent or Unattended EMS for Outlook Installation"
-          Link="/Content/4Outlook/A_Install/Outlook_IG_SilentUnattendedInstall.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Requirements and Prerequisites for EMS for Outlook"
+          Link="/Content/4Outlook/A_Install/Outlook_IG_ReqsPrereqs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Where to See Your Exchange Server URL and EMS for Outlook Version Number"
-          Link="/Content/4Outlook/A_Install/Outlook_IG_WhereExchServURLVerNum.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      </TocEntry>
-      <TocEntry
-        Title="Integrated Authentication Options"
-        Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedAuthenOptions.html">
+          Title="Plan Your EMS for Outlook Implementation"
+          Link="/Content/4Outlook/A_Install/Outlook_IG_PlanImplementation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Introduction"
-          Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+          Title="Install or Upgrade EMS for Outlook on Users' Computers"
+          Link="/Content/4Outlook/A_Install/Outlook_IG_InstallUpgrade.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
           <TocEntry
-            Title="Integrated Authentication Considerations"
-            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedAuthenticationConsid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Title="EMS for Outlook Add-In Is Offline"
+            Link="/Content/4Outlook/A_Install/Outlook_IG_OutlookAddInOffline.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="Silent or Unattended EMS for Outlook Installation"
+            Link="/Content/4Outlook/A_Install/Outlook_IG_SilentUnattendedInstall.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="Where to See Your Exchange Server URL and EMS for Outlook Version Number"
+            Link="/Content/4Outlook/A_Install/Outlook_IG_WhereExchServURLVerNum.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         </TocEntry>
         <TocEntry
-          Title="Integrated Windows Authentication"
-          Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedWindowsAuthen.html">
+          Title="Integrated Authentication Options"
+          Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedAuthenOptions.html">
           <TocEntry
-            Title="Manage Everyday Users For Integrated Authentication"
-            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_ManageEUforIntegAuthen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            Title="Introduction"
+            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <TocEntry
+              Title="Integrated Authentication Considerations"
+              Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedAuthenticationConsid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          </TocEntry>
+          <TocEntry
+            Title="Integrated Windows Authentication"
+            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_IntegratedWindowsAuthen.html">
+            <TocEntry
+              Title="Manage Everyday Users For Integrated Authentication"
+              Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_ManageEUforIntegAuthen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          </TocEntry>
+          <TocEntry
+            Title="LDAP Authentication"
+            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_LDAPAuthentication.html" />
+          <TocEntry
+            Title="Portal or Federated Authentication"
+            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_PortalFederatedAuthen.html">
+            <TocEntry
+              Title="Portal Authentication Methods"
+              Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_PortalAuthenMethods.html" />
+          </TocEntry>
         </TocEntry>
         <TocEntry
-          Title="LDAP Authentication"
-          Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_LDAPAuthentication.html" />
-        <TocEntry
-          Title="Portal or Federated Authentication"
-          Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_PortalFederatedAuthen.html">
+          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_Introduction.htm"
+          Title="Integration to Microsoft Exchange">
           <TocEntry
-            Title="Portal Authentication Methods"
-            Link="/Content/F_Optional Features/IntegAuth/A_V44.1/IntegAuth_PortalAuthenMethods.html" />
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_IntegExchanReqs.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_InstallUpgradeforEIWservice.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_ConfigIntegExchange.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_UseAppPoolIdentif.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_ConfigEWSImperforME.htm" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_LearnMoreaboutEWS.htm" />
         </TocEntry>
+        <TocEntry
+          Title="PDF"
+          Link="/Content/4Outlook/A_Install/Outlook_Install_PDF.pdf" />
       </TocEntry>
       <TocEntry
-        Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_Introduction.htm"
-        Title="Integration to Microsoft Exchange">
+        Title="Configuration Guide EMS for Microsoft Outlook"
+        Link="/Content/4Outlook/B_Config/Outlook_CG_ConfigOutlookOverview.htm">
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_IntegExchanReqs.htm" />
+          Title="Configure EMS for Outlook"
+          Link="/Content/4Outlook/B_Config/Outlook_CG_ConfigforOutlook.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_InstallUpgradeforEIWservice.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_ConfigIntegExchange.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_UseAppPoolIdentif.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_ConfigEWSImperforME.htm" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/4Outlook/D_IntegExch/IME/Outlook_IME_LearnMoreaboutEWS.htm" />
+          Title="PDF"
+          Link="/Content/4Outlook/B_Config/Outlook_Config_PDF.pdf" />
       </TocEntry>
       <TocEntry
-        Title="PDF"
-        Link="/Content/4Outlook/A_Install/Outlook_Install_PDF.pdf" />
-    </TocEntry>
-    <TocEntry
-      Title="Configuration Guide EMS for Microsoft Outlook"
-      Link="/Content/4Outlook/B_Config/Outlook_CG_ConfigOutlookOverview.htm">
-      <TocEntry
-        Title="Configure EMS for Outlook"
-        Link="/Content/4Outlook/B_Config/Outlook_CG_ConfigforOutlook.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="PDF"
-        Link="/Content/4Outlook/B_Config/Outlook_Config_PDF.pdf" />
-    </TocEntry>
-    <TocEntry
-      Title="Everyday User Guide EMS for Microsoft Outlook"
-      Link="/Content/4Outlook/C_User/Outlook_UG_UseEMSforOutlook.htm">
-      <TocEntry
-        Title="Get Started with EMS for Outlook"
-        Link="/Content/4Outlook/C_User/Outlook_UG_GetStarted.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        Title="Everyday User Guide EMS for Microsoft Outlook"
+        Link="/Content/4Outlook/C_User/Outlook_UG_UseEMSforOutlook.htm">
         <TocEntry
-          Title="Microsoft Outlook, EMS for Microsoft Outlook, and EMS Web App Comparison"
-          Link="/Content/4Outlook/C_User/Outlook_UG_OutlookComparisons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Get Started with EMS for Outlook"
+          Link="/Content/4Outlook/C_User/Outlook_UG_GetStarted.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+          <TocEntry
+            Title="Microsoft Outlook, EMS for Microsoft Outlook, and EMS Web App Comparison"
+            Link="/Content/4Outlook/C_User/Outlook_UG_OutlookComparisons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry
+          Title="Create a Reservation in EMS for Microsoft Outlook"
+          Link="/Content/4Outlook/C_User/Outlook_UG_CreateResOverview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+          <TocEntry
+            Title="Create a Single Reservation"
+            Link="/Content/4Outlook/C_User/Outlook_UG_CreateSingleRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="Create a Series Reservation"
+            Link="/Content/4Outlook/C_User/Outlook_UG_CreateSeriesRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="Create a Video Conference Reservation"
+            Link="/Content/4Outlook/C_User/Outlook_UG_CreateVideoConRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="Edit or Cancel a Reservation"
+            Link="/Content/4Outlook/C_User/Outlook_UG_EditCancelSchedEvent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry
+          Title="Use Skype for Business in EMS for Outlook"
+          Link="/Content/4Outlook/C_User/Outlook_UG_UseSkypeforBusiness.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Resolve Booking Conflicts"
+          Link="/Content/4Outlook/C_User/Outlook_UG_ResolveBookingConflicts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="View Known Errors/Alerts for EMS for Outlook"
+          Link="/Content/4Outlook/C_User/Outlook_UG_ViewKnownErrorsAlerts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="PDF"
+          Link="/Content/4Outlook/C_User/Outlook_UG_PDF.pdf" />
       </TocEntry>
       <TocEntry
-        Title="Create a Reservation in EMS for Microsoft Outlook"
-        Link="/Content/4Outlook/C_User/Outlook_UG_CreateResOverview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        Title="EMS for Microsoft Outlook Configuration Guide (Legacy Documentation)"
+        Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_ConfigOverview_Leg.htm">
         <TocEntry
-          Title="Create a Single Reservation"
-          Link="/Content/4Outlook/C_User/Outlook_UG_CreateSingleRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Customize the Desktop Application Label"
+          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_CustomizeDesktopAppLabel_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Create a Series Reservation"
-          Link="/Content/4Outlook/C_User/Outlook_UG_CreateSeriesRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="EMS for Outlook System Parameters"
+          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_SysParameters_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Create a Video Conference Reservation"
-          Link="/Content/4Outlook/C_User/Outlook_UG_CreateVideoConRes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Enable User Access to EMS for Outlook"
+          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_EnableUserAccess_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Edit or Cancel a Reservation"
-          Link="/Content/4Outlook/C_User/Outlook_UG_EditCancelSchedEvent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Title="Assign EMS Users to Groups"
+          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_AssignUserstoGroups_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Establish Outlook Booking Templates and Conflict Behavior"
+          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_EstabBookTempConflBeh_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
-      <TocEntry
-        Title="Use Skype for Business in EMS for Outlook"
-        Link="/Content/4Outlook/C_User/Outlook_UG_UseSkypeforBusiness.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Resolve Booking Conflicts"
-        Link="/Content/4Outlook/C_User/Outlook_UG_ResolveBookingConflicts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="View Known Errors/Alerts for EMS for Outlook"
-        Link="/Content/4Outlook/C_User/Outlook_UG_ViewKnownErrorsAlerts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="PDF"
-        Link="/Content/4Outlook/C_User/Outlook_UG_PDF.pdf" />
-    </TocEntry>
-    <TocEntry
-      Title="Legacy Documentation"
-      Link="/Content/4Outlook/Legacy/Outlook_OlderReleases.htm">
       <TocEntry
         Title="EMS for Microsoft Outlook Installation Guide (Legacy Documentation)"
         Link="/Content/4Outlook/Legacy/A_Install_Leg/Outlook_IG_InstallOverview_Leg.htm">
@@ -165,25 +183,6 @@
         <TocEntry
           Title="Where to See Your Exchange Server URL and EMS for Outlook Version Number"
           Link="/Content/4Outlook/Legacy/A_Install_Leg/Outlook_IG_ExchServURLandVerNum_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      </TocEntry>
-      <TocEntry
-        Title="EMS for Microsoft Outlook Configuration Guide (Legacy Documentation)"
-        Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_ConfigOverview_Leg.htm">
-        <TocEntry
-          Title="Customize the Desktop Application Label"
-          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_CustomizeDesktopAppLabel_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-        <TocEntry
-          Title="EMS for Outlook System Parameters"
-          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_SysParameters_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-        <TocEntry
-          Title="Enable User Access to EMS for Outlook"
-          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_EnableUserAccess_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-        <TocEntry
-          Title="Assign EMS Users to Groups"
-          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_AssignUserstoGroups_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-        <TocEntry
-          Title="Establish Outlook Booking Templates and Conflict Behavior"
-          Link="/Content/4Outlook/Legacy/B_Config_Leg/Outlook_CG_EstabBookTempConflBeh_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
       <TocEntry
         Title="EMS for Microsoft Outlook User Guide (Legacy Documentation)"
@@ -224,6 +223,9 @@
           Title="View Known Errors/Alerts"
           Link="/Content/4Outlook/Legacy/C_User_Leg/Outlook_UG_ViewKnownErrAlert_Leg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Prior to Version 8">
       <TocEntry
         Title="EMS for Microsoft Outlook Installation Guide (Prior to Update 8)"
         Link="/Content/4Outlook/PriorU8/A_Install/Outlook_IG_InstallOutlook.htm">
@@ -292,6 +294,15 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
+      Title="Version 7">
+      <TocEntry
+        Title="EMS for Outlook Install"
+        Link="/Content/4Outlook/V43/EMS for Outlook Install.pdf" />
+      <TocEntry
+        Title="EMS for Outlook User Manual"
+        Link="/Content/4Outlook/V43/EMS for Outlook User Manual.pdf" />
+    </TocEntry>
+    <TocEntry
       Title="Video Tutorials"
       Link="/Content/4Outlook/Video Tutorials/Outlook_VideoTutorialIntro.htm">
       <TocEntry
@@ -316,7 +327,8 @@
         MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
-      Title="Release Notes">
+      Title="Release Notes"
+      Link="/Content/C_Release Notes/1_ReleaseNotesVersion44.1/V44.1_Release Notes.htm">
       <TocEntry
         Title="Release Notes V44.1"
         Link="/Content/C_Release Notes/1_ReleaseNotesVersion44.1/V44.1_Release Notes.htm"></TocEntry>
