@@ -3852,38 +3852,38 @@
         </TocEntry>
         <TocEntry
           Title="Configuration &gt; Resources"
-          Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_OverviewConfigRes.html">
+          Link="/Content/1DesktopClient/44/CG_44/DesktopClient_OverviewConfigRes.html">
           <TocEntry
             Title="Categories, Resources, Services - What's the Difference?"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_CategoriesResourcesServices_WhatsDiff.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_CategoriesResourcesServices_WhatsDiff.htm" />
           <TocEntry
             Title="Configure Resources for a Category"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigResourcesforCat.html">
+            Link="/Content/1DesktopClient/44/CG_44/DesktopClient_ConfigResourcesforCat.html">
             <TocEntry
               Title="Resource Configuration Wizard"
-              Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ResourceConfigWiz.htm" />
+              Link="/Content/1DesktopClient/44/CG_44/DC_CG_ResourceConfigWiz.htm" />
           </TocEntry>
           <TocEntry
             Title="Import Resources for a Category"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ImportResforCat.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_ImportResforCat.htm" />
           <TocEntry
             Title="Define Resource Selections and Selection Items"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_DefineResourceSel.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_DefineResourceSel.htm" />
           <TocEntry
             Title="Configure Services for a Category"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigureServicesforCat.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_ConfigureServicesforCat.htm" />
           <TocEntry
             Title="Configure Groupings for a Resource"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigGroupingsResource.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DesktopClient_ConfigGroupingsResource.html" />
           <TocEntry
             Title="Define Production Areas and Production Items for a Catering Resource"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_DefineProdAreaItems.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_DefineProdAreaItems.htm" />
           <TocEntry
             Title="Configure Pricing for a Resource in the Edit Pricing Window"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigPricingResourceEditPriceWin.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_ConfigPricingResourceEditPriceWin.htm" />
           <TocEntry
             Title="Export Pricing Information for a Resource"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ExportPricInfo.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_ExportPricInfo.htm" />
         </TocEntry>
         <TocEntry
           Title="Core Configuration &gt; Groups and Contacts"
@@ -3907,7 +3907,7 @@
         </TocEntry>
         <TocEntry
           Title="Core Configuration &gt; Billing"
-          Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigBilling.htm">
+          Link="/Content/1DesktopClient/44/CG_44/DC_CG_ConfigBilling.htm">
           <TocEntry
             Title="Configure Rate Schedules"
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigRateSchedule.htm" />
@@ -3916,7 +3916,7 @@
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigPricingPlan.htm" />
           <TocEntry
             Title="Export Pricing Information for Billable Items (Rooms &amp; Resources)"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ExportPricingInfoBillableItems.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ExportPricingInfo.htm" />
           <TocEntry
             Title="Configure Calculations"
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCalc.htm" />
