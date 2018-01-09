@@ -3938,7 +3938,7 @@
         </TocEntry>
         <TocEntry
           Title="Core Configuration &gt; Booking Elements"
-          Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigAdmin.htm">
+          Link="/Content/1DesktopClient/44/CG_44/DC_CG_ConfigBookingElements.htm">
           <TocEntry
             Title="Configure Categories"
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCategory.html" />
@@ -3953,7 +3953,7 @@
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigNotRules.htm">
             <TocEntry
               Title="Types of Notification Rules"
-              Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_TypesNotifiRules.htm" />
+              Link="/Content/1DesktopClient/44/CG_44/DC_CG_TypesNotifiRules.htm" />
           </TocEntry>
           <TocEntry
             Title="Configure Group Notification Rules"
@@ -3969,44 +3969,44 @@
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCheckinNot.htm" />
           <TocEntry
             Title="Configure Reservation Wizard Templates"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigResWiz.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigResWiz.htm" />
         </TocEntry>
         <TocEntry
           Title="Core Configuration &gt; Other Data Types"
           Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_CoreConfigurationOtherDataTypes.htm">
           <TocEntry
             Title="Configure Event Types"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigEventType.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigEventTypes.htm" />
           <TocEntry
             Title="Configure Group Types"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigGroupType.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigGroupType.htm" />
           <TocEntry
             Title="Configure Reminder Types"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigReminderTypes.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigReminderTypes.html" />
           <TocEntry
             Title="Configure Comment Types"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigCommentType.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCommentType.htm" />
           <TocEntry
             Title="Configure Messages"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigMessages.htm" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigMessages.htm" />
           <TocEntry
             Title="Configure Special Dates"
             Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigSpecialDates.html" />
           <TocEntry
             Title="Configure User-Defined Fields"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigUDF.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigUDF.htm" />
           <TocEntry
             Title="Configure Reservation Sources"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigReservSources.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigReservSource.htm" />
           <TocEntry
             Title="Configure Cancel Reasons"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigCancelReasons.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCancelReasons.htm" />
           <TocEntry
             Title="Configure Attachment Types"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DC_CG_ConfigAttachmentType.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigAttachmentType.html" />
           <TocEntry
             Title="Configure Word Merge Documents"
-            Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_ConfigWordMergeDoc.html" />
+            Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigWordMergeDoc.html" />
           <TocEntry
             Title="Configure Calendar Styles"
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ConfigCalendarStyles.html" />
@@ -4065,7 +4065,7 @@
         </TocEntry>
         <TocEntry
           Title="System Administration &gt; Tools"
-          Link="/Content/1DesktopClient/V44.1/B_ConfigGuide/DesktopClient_SystemAdminTools.html">
+          Link="/Content/1DesktopClient/44/CG_44/DesktopClient_SystemAdminTools.html">
           <TocEntry
             Title="Change Group Wizard"
             Link="/Content/1DesktopClient/44/CG_44/DC_CG_44_ChangeGroupWiz.htm" />
