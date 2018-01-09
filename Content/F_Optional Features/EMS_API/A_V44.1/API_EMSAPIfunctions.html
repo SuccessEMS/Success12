@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html MadCap:lastBlockDepth="6" MadCap:lastHeight="188404" MadCap:lastWidth="897" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html MadCap:lastBlockDepth="6" MadCap:lastHeight="372624" MadCap:lastWidth="1040" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <link href="../../../Resources/TableStyles/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
     </head>
@@ -558,7 +558,7 @@
         <h3>Sample Code&#160;</h3>
         <p>Private Sub AddContact()</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim svc As New EMSAPI.ServiceSoapClient</p>
-        <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim objReader As New System.IO.StringReader(svc.AddContact(“UserID”, “Password”, 1234,”Test Contact”, “”, “123 Main St.”, “”, “Denver”, “CO”, “80111”, ””, “x123”, “”, “<a href="mailto:Test@test.com" title="mailto:Test@test.com">Test@test.com</a>”, “”))</p>
+        <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim objReader As New System.IO.StringReader(svc.AddContact(“UserID”, “Password”, 1234,”Test Contact”, “”, “123 Main St.”, “”, “Denver”, “CO”, “80111”, ””, “x123”, “”, “Test@test.com”, “”))</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim dst As New DataSet("Data")</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; dst.ReadXml(objReader)</p>
         <p>End Sub</p>
@@ -23616,7 +23616,7 @@
         <h2>UpdateUDF (Requires EMS API Advanced License)</h2>
         <h3>Description</h3>
         <p>Updates a single UDF in EMS&#160;(Reservation or Booking level UDF only)</p>
-        <h3>Request Parameters&#160;<a href="https://success.emssoftware.com/?title=Installation_%26_Setup_Guides/Optional_Features/EMS_API/EMS_API_Guide/EMS_API_Functions" title="Edit section"><img src="../../../Resources/Images/EMS API Functions_New/EMS API Functions.gif" style="visibility: visible;mso-wrap-style: square;width: 16px;height: 16px;" alt="Edit section" /></a></h3>
+        <h3>Request Parameters</h3>
         <table style="mc-table-style: url('../../../Resources/TableStyles/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
             <thead>
                 <tr class="TableStyle-PatternedRows-Head-Header1">
@@ -23953,7 +23953,7 @@
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; strGroups.AddRange(gintGroups.ToArray)</p>
         <p>&#160;</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim svc As New EMSAPI.ServiceSoapClient</p>
-        <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim objReader As New System.IO.StringReader(svc.UpdateWebUser(“UserID”, “Password”, 2312, “Test Web User”, “<a href="mailto:testwebuser@test.com" title="mailto:testwebuser@test.com">testwebuser@test.com</a>”, “x123”, “”, “”, “”, 68, 0, 1, strWebTemplates, strGroups, 0)</p>
+        <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim objReader As New System.IO.StringReader(svc.UpdateWebUser(“UserID”, “Password”, 2312, “Test Web User”, “testwebuser@test.com”, “x123”, “”, “”, “”, 68, 0, 1, strWebTemplates, strGroups, 0)</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dim dst As New DataSet("Data")</p>
         <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; dst.ReadXml(objReader)</p>
         <p>End Sub</p>

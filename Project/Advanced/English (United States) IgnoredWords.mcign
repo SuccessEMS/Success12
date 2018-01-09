@@ -139,42 +139,43 @@
     <Word Comment="">Terms.txt</Word>
     <Word Comment="">CourseDates.txt</Word>
     <Word Comment="">sales/discounts</Word>
-    <Word>Mbps</Word>
-    <Word>UserName</Word>
-    <Word>StartTimeDate</Word>
-    <Word>DateTime</Word>
-    <Word>EndTimeDate</Word>
-    <Word>EventTypes</Word>
-    <Word>GroupTypes</Word>
-    <Word>ViewComboRoomComponents</Word>
-    <Word>BookingDate</Word>
-    <Word>StartBookingDate</Word>
-    <Word>RoomDescription</Word>
-    <Word>TimeEventStart</Word>
-    <Word>TimeEventEnd</Word>
-    <Word>GroupName</Word>
-    <Word>Group/Customer</Word>
-    <Word>EventName</Word>
-    <Word>SetupTypeDescription</Word>
-    <Word>SetupCount</Word>
-    <Word>ReservationID</Word>
-    <Word>EventCoordinator</Word>
-    <Word>GroupID</Word>
-    <Word>VIPEvent</Word>
-    <Word>ClosedAllDay</Word>
-    <Word>OpenTime</Word>
-    <Word>CloseTime</Word>
-    <Word>GroupTypeDescription</Word>
-    <Word>EventTypeDescription</Word>
-    <Word>AltContact</Word>
-    <Word>BookingID</Word>
-    <Word>BuildingID</Word>
-    <Word>TimeBookingStart</Word>
-    <Word>TimeBookingEnd</Word>
-    <Word>GMTStartTime</Word>
-    <Word>GMTEndTime</Word>
-    <Word>TimeZone</Word>
-    <Word>BuildingCode</Word>
-    <Word>RoomCode</Word>
-    <Word>RoomID</Word>
+    <Word Comment="">Mbps</Word>
+    <Word Comment="">UserName</Word>
+    <Word Comment="">StartTimeDate</Word>
+    <Word Comment="">DateTime</Word>
+    <Word Comment="">EndTimeDate</Word>
+    <Word Comment="">EventTypes</Word>
+    <Word Comment="">GroupTypes</Word>
+    <Word Comment="">ViewComboRoomComponents</Word>
+    <Word Comment="">BookingDate</Word>
+    <Word Comment="">StartBookingDate</Word>
+    <Word Comment="">RoomDescription</Word>
+    <Word Comment="">TimeEventStart</Word>
+    <Word Comment="">TimeEventEnd</Word>
+    <Word Comment="">GroupName</Word>
+    <Word Comment="">Group/Customer</Word>
+    <Word Comment="">EventName</Word>
+    <Word Comment="">SetupTypeDescription</Word>
+    <Word Comment="">SetupCount</Word>
+    <Word Comment="">ReservationID</Word>
+    <Word Comment="">EventCoordinator</Word>
+    <Word Comment="">GroupID</Word>
+    <Word Comment="">VIPEvent</Word>
+    <Word Comment="">ClosedAllDay</Word>
+    <Word Comment="">OpenTime</Word>
+    <Word Comment="">CloseTime</Word>
+    <Word Comment="">GroupTypeDescription</Word>
+    <Word Comment="">EventTypeDescription</Word>
+    <Word Comment="">AltContact</Word>
+    <Word Comment="">BookingID</Word>
+    <Word Comment="">BuildingID</Word>
+    <Word Comment="">TimeBookingStart</Word>
+    <Word Comment="">TimeBookingEnd</Word>
+    <Word Comment="">GMTStartTime</Word>
+    <Word Comment="">GMTEndTime</Word>
+    <Word Comment="">TimeZone</Word>
+    <Word Comment="">BuildingCode</Word>
+    <Word Comment="">RoomCode</Word>
+    <Word Comment="">RoomID</Word>
+    <Word>testwebuser@test.com</Word>
 </IgnoredWordsDictionary>
